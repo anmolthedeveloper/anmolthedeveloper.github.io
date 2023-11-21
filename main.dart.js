@@ -33502,7 +33502,7 @@ au(){return new A.Dc(B.p)}}
 A.Dc.prototype={
 T(a){var s=null,r=t.w,q=A.dr(a,B.tw,r).w.a.b
 r=A.dr(a,B.tw,r).w
-return new A.qk(A.YO(new A.vK(B.fN,B.AL,B.nn,B.hR,s,B.fw,s,A.a([B.IO,new A.jK(new A.bw(r.a.a*0.1,q*0.02,0,0),new A.oy(A.ac5(s,s,new A.ni("assets/images/Dashatars.png",s,s)),q*0.4,s),s)],t.eE),s),s,s),s)}}
+return new A.qk(A.YO(new A.vK(B.fN,B.AL,B.nn,B.hR,s,B.fw,s,A.a([B.IO,new A.jK(new A.bw(r.a.a*0.06,q*0.01,0,0),new A.oy(A.ac5(s,s,new A.ni("assets/images/Dashatars.png",s,s)),q*0.4,s),s)],t.eE),s),s,s),s)}}
 A.w7.prototype={
 dC(a,b){return J.c(a,b)}}
 A.xv.prototype={
